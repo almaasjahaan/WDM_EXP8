@@ -111,9 +111,9 @@ else:
 ```
 
 ### Output:
-<img width="1919" height="1154" alt="image" src="https://github.com/user-attachments/assets/ff380e00-ff06-4243-aefc-6bfd564bb434" />
-<img width="1917" height="820" alt="image" src="https://github.com/user-attachments/assets/741b946b-6599-4cf5-a7a2-5c73f0bf2e19" />
-<img width="1238" height="751" alt="image" src="https://github.com/user-attachments/assets/c4a52543-6e02-4f60-ba3b-1789f3e429bc" />
+<img width="1919" height="1154" alt="Screenshot 2025-10-16 154445" src="https://github.com/user-attachments/assets/42293d68-2c71-4871-94a0-0f2f6c0b3346" />
+<img width="1917" height="820" alt="Screenshot 2025-10-16 154457" src="https://github.com/user-attachments/assets/d0571341-70e0-4b83-abbf-58abbba6b894" />
+<img width="1238" height="751" alt="Screenshot 2025-10-16 154508" src="https://github.com/user-attachments/assets/975b0850-18b1-40c1-9344-efe2c9ced0e8" />
 
 
 ### Result:
